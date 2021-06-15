@@ -19,8 +19,10 @@ app.use(express.static("public"));
      process.env.MONGODB_URI || 'mongodb://localhost/budget',
      {
       useNewUrlParser: true,
+      useUnifiedTopology: true,
+      useCreateIndex: true,
       useFindAndModify: false
-     }
+    }
    );
 
 // routes

@@ -10,14 +10,15 @@
   ### Installation:
   In order to install the necessary dependencies, open the console and run the following:
   ```npm i```
-  ### Usage:   Track your budget
+  ### Usage:
+  deployed app
+   https://secure-plateau-04019.herokuapp.com/
   
   ### License:
   This project is licensed under:
   MIT
   ### Contributing:
   contact me
-  ### 
   ### Questions:
   If you have any questions contact me on [GitHub](https://github.com/thereal-baitjet) or contact 
   Juan Santos at baitjet@gmail.com
