@@ -13,6 +13,9 @@
   ### Usage:
   deployed app
    https://secure-plateau-04019.herokuapp.com/
+
+   repo
+   https://github.com/thereal-baitjet/Budget-Trackers
   
   ### License:
   This project is licensed under:
